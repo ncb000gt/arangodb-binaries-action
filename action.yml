@@ -1,0 +1,10 @@
+name: 'Add ArangoDB Binaries'
+description: 'Add ArangoDB Binaries to docker image'
+author: 'ncb000gt'
+branding:
+  icon: 'database'
+  color: 'blue'
+inputs:
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
