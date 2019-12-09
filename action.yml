@@ -4,7 +4,6 @@ author: 'ncb000gt'
 branding:
   icon: 'database'
   color: 'blue'
-inputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
